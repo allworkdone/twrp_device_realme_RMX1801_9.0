@@ -96,9 +96,6 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_THEME := portrait_hdpi
 TW_USE_TOOLBOX := true
 
-# TWRP flags for notch
-TW_Y_OFFSET := 80
-TW_H_OFFSET := -80
 
 # Hack: prevent anti rollback
 PLATFORM_SECURITY_PATCH := 2099-12-31
